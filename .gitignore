@@ -1,9 +1,6 @@
 # Compiled python modules.
 *.pyc
 
-# Materials to Exclude (for now)
-/Ec240a_Fall2015/
-
 # Ignore Jupyter/IPython Notebook Checkpoints
 **/.ipynb_checkpoints/
 
@@ -25,6 +22,8 @@
 *.*#
 *.bib
 *.*~
+
+# Source spead sheet files
 *.ods
 *.xls
 *.xlsx
