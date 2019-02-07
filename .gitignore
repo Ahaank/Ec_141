@@ -17,10 +17,10 @@
 
 # Source Lyx/Tex/BibTex files
 *.tex
-!**/Lectures/Scribe_Template.tex  #Except for scribing template
+!Spring2019/Lectures/Scribe_Template.tex  #Except for scribing template
 
 *.lyx
-!**/Lectures/Scribe_Template.lyx  #Except for scribing template
+!Spring2019/Lectures/Scribe_Template.lyx  #Except for scribing template
 
 *lyx-format*.lyx
 *.*#
