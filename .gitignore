@@ -17,7 +17,11 @@
 
 # Source Lyx/Tex/BibTex files
 *.tex
+!Scribe_Template.tex  #Except for scribing template
+
 *.lyx
+!Scribe_Template.lyx  #Except for scribing template
+
 *lyx-format*.lyx
 *.*#
 *.bib
